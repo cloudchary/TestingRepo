@@ -92,7 +92,6 @@
 					"location": {
 						"type": "AzureBlobStorageLocation",
 						"fileName": "hai everyone.txt",
-						"folderPath": "input",
 						"container": "input"
 					}
 				}
