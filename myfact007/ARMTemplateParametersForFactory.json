@@ -7,9 +7,6 @@
 		},
 		"AzureBlobStorage1_connectionString": {
 			"value": ""
-		},
-		"kanna01_connectionString": {
-			"value": ""
 		}
 	}
 }
