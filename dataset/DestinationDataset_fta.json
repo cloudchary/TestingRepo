@@ -1,0 +1,16 @@
+{
+	"name": "DestinationDataset_fta",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase01",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "hai everyone"
+		}
+	}
+}
