@@ -1,6 +1,0 @@
-{
-	"name": "azure-self-host",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
